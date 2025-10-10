@@ -32,7 +32,7 @@ O objetivo é simular um mecanismo de busca rápido e escalável, capaz de lidar
 ## 🛠️ Estrutura do Projeto
 
 megastore-search/
-├── src/           # Código fonte do sistema
-├── tests/         # Testes unitários e de integração
-├── Cargo.toml     # Configuração do projeto e dependências
-└── README.md      # Documentação do projeto
+-├── src/           # Código fonte do sistema
+-├── tests/         # Testes unitários e de integração
+-├── Cargo.toml     # Configuração do projeto e dependências
+-└── README.md      # Documentação do projeto
